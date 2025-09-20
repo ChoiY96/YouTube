@@ -24,11 +24,11 @@ YouTube Premium 是全球最受欢迎的流媒体订阅服务之一，提供无�
 |------|------|
 | **Google 账号** | 一个可正常访问 YouTube 的账号（建议使用美区或港区）。 |
 | **网络环境** | 建议使用美国、香港、新加坡、阿根廷等地区节点，部分低价区更优惠。 |
-| **支付方式** | 国际信用卡 / 虚拟 Visa 或 MasterCard（推荐 [EasyPay](https://easy-pay.site/home)） / Google Play / Apple ID。 |
+| **支付方式** | 国际信用卡 / 虚拟 Visa 或 MasterCard（推荐 [EasyPay](https://easy-pay.site/home?ref=RVBFc3VUQ3dOSEAxMQ==)） / Google Play / Apple ID。 |
 
 ![fb04](https://github.com/ChoiY96/YouTube/raw/main/fb04.png)
 ### ✅ 虚拟卡申请步骤
-推荐使用 [**EasyPay 虚拟信用卡**](https://easy-pay.site/home) 进行支付。流程如下：  
+推荐使用 [**EasyPay 虚拟信用卡**](https://easy-pay.site/home?ref=RVBFc3VUQ3dOSEAxMQ==) 进行支付。流程如下：  
 
 1. 注册账户（支持邮箱或 Telegram 登录，无需繁琐 KYC）；  
 2. 使用 USDT（TRC20）充值钱包，首次建议充值 **20 USDT**；  
